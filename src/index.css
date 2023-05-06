@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Montserrat:wght@300;400;500;600;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ct-menu-item {
+  @apply cursor-pointer py-1 hover:text-gray-800 lg:border-b-2 lg:border-white hover:border-light-coffee tracking-widest;
+}
+.ct-menu-item-active {
+  @apply text-gray-800 border-light-coffee;
+}
+.ct-menu-item-expanded {
+  @apply absolute z-50 top-10 w-full bg-white text-center animate-slideDown;
+}
+.ct-icon {
+  @apply w-5 h-5 inline-block;
+}
+.ct-badge-circle {
+  @apply text-xs text-center rounded-full px-1.5;
+}
+.underlined-link {
+  display: inline-block;
+  border-bottom: 2px solid rgba(162, 95, 75, 0.2);
+}
+.underlined-link:hover {
+  border-bottom-color: rgba(162, 95, 75, 0.7);
+  color: #743f2f;
+}
+.ct-subheadline {
+  @apply flex justify-center items-center mb-24;
+}
+.ct-subheadline-deco-line {
+  @apply w-8 h-[0.8px] bg-gray-200;
+}
+.ct-subheadline-lable {
+  @apply uppercase mx-4 tracking-widest text-gray-500 font-medium text-[12px] text-center;
+}
+.ct-product-card {
+  @apply h-[540px];
+}
+.mobile-screen {
+  @apply w-[100vw] left-[calc(-50vw+50%)] relative;
+}
+.mobile-screen-btn {
+  @apply w-[350px];
+}
