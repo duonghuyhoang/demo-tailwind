@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/demo-tailwind/static/css/main.ee0e4b34.css",
+    "main.js": "/demo-tailwind/static/js/main.88a4168e.js",
+    "static/js/787.cd70cfc8.chunk.js": "/demo-tailwind/static/js/787.cd70cfc8.chunk.js",
+    "static/media/_levi-guzman-1077850-unsplash.jpg": "/demo-tailwind/static/media/5be96251aaba7a81a6ecdfe7_levi-guzman-1077850-unsplash.75fe125da824c3b42fab.jpg",
+    "static/media/_nathan-dumlao-643391-unsplash.jpg": "/demo-tailwind/static/media/5be96251aaba7a8461ece016_nathan-dumlao-643391-unsplash.79bd0e86114509748575.jpg",
+    "static/media/_liana-mikah-698524-unsplash.jpg": "/demo-tailwind/static/media/5be96251aaba7a512bece011_liana-mikah-698524-unsplash.d19d1a5edeee2726e2eb.jpg",
+    "static/media/featured-mugs1.jpg": "/demo-tailwind/static/media/featured-mugs1.d19d1a5edeee2726e2eb.jpg",
+    "static/media/_rocknwool-690694-unsplash.jpg": "/demo-tailwind/static/media/5be96251aaba7a6d09ece015_rocknwool-690694-unsplash.7fa957916662cb76ad03.jpg",
+    "static/media/_bar-cafe-caffeine-1002740.jpg": "/demo-tailwind/static/media/5be96251aaba7a4ce6ece036_bar-cafe-caffeine-1002740.fceccc560245cf2144dc.jpg",
+    "static/media/featured-mugs2.jpg": "/demo-tailwind/static/media/featured-mugs2.5918c516b8cd04d3f1fb.jpg",
+    "static/media/_natanja-grun-600152-unsplash.jpg": "/demo-tailwind/static/media/5be96251aaba7a1db2ece009_natanja-grun-600152-unsplash.d3a4a594af4131f6126c.jpg",
+    "static/media/_trent-erwin-570303-unsplash.jpg": "/demo-tailwind/static/media/5be96251aaba7a6173ece01a_trent-erwin-570303-unsplash.359181909e96925f97fa.jpg",
+    "static/media/logo-content.jpg": "/demo-tailwind/static/media/logo-content.73f010354879105cfe53.jpg",
+    "static/media/_steve-harvey-523112-unsplash.jpg": "/demo-tailwind/static/media/5be96251aaba7a0c09ece01c_steve-harvey-523112-unsplash.c85c9c5e516f9b436c7f.jpg",
+    "static/media/_ronaldo-arthur-vidal-66241-unsplash.jpg": "/demo-tailwind/static/media/5be96251aaba7a223decdff8_ronaldo-arthur-vidal-66241-unsplash.a364a8faa3be19fe6703.jpg",
+    "static/media/_rawpixel-645289-unsplash.jpg": "/demo-tailwind/static/media/5be96251aaba7ae493ece012_rawpixel-645289-unsplash.506d7289ee8d330314c1.jpg",
+    "static/media/_Image.jpg": "/demo-tailwind/static/media/5be96251aaba7a2f3decdfa9_Image.eca8e0e138878dbc52d3.jpg",
+    "index.html": "/demo-tailwind/index.html",
+    "main.ee0e4b34.css.map": "/demo-tailwind/static/css/main.ee0e4b34.css.map",
+    "main.88a4168e.js.map": "/demo-tailwind/static/js/main.88a4168e.js.map",
+    "787.cd70cfc8.chunk.js.map": "/demo-tailwind/static/js/787.cd70cfc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee0e4b34.css",
+    "static/js/main.88a4168e.js"
+  ]
+}
